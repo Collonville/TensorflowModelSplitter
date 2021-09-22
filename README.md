@@ -29,7 +29,7 @@ make run
 ```
 
 ### Result of extractor
-- Each extract result from each APIs shows the same vector
+- Extract results from each APIs show the same vector
 ```bash
 PS A:\ドキュメント\TensorflowModelSplitter> make run
 poetry run python -m tensorflowmodelsplitter
